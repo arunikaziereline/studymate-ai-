@@ -29,9 +29,3 @@ StudyMate AI adalah sebuah chatbot cerdas lintas disiplin yang dirancang untuk m
 - **Framework UI:** Streamlit (untuk antarmuka web yang responsif dan interaktif)
 - **AI Engine:** Google Gemini Pro API
 
-## 📦 Cara Menjalankan Proyek Secara Lokal
-
-1. **Clone Repositori Ini**
-   ```bash
-   git clone [https://github.com/username-kamu/studymate-chatbot.git](https://github.com/username-kamu/studymate-chatbot.git)
-   cd studymate-chatbot
